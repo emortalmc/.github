@@ -1,5 +1,19 @@
-# [EmortalMC](https://github.com/EmortalMC/)
+<p align="center">
+<img src="https://raw.githubusercontent.com/EmortalMC/.github/master/profile/emortalmclogo.png" width=450>
+  
+  <h3 align="center">A Minecraft network powered by Minestom</h3>
+  <h6 align="center">+ help from Project Cepi 😎</h6>
+</p>
 
-A [Minecraft](https://minecraft.net) network
+&nbsp;
 
-⚡ by [Minestom](https://github.com/Minestom/Minestom) & [Project-Cepi](https://github.com/Project-Cepi) / [Sabre](https://github.com/Project-Cepi/Sabre)
+###### 
+
+## Gamemodes
+- [Lazer Tag](../../../../LazerTag)
+- [Wool Wars](../../../../WoolWars)
+- [Marathon](../../../../Marathon) (Endless parkour)
+
+## Libraries from EmortalMC
+- [Rayfast](../../../../Rayfast) (Fast raycasting)
+- [Immortal](../../../../Immortal) (Game manager)
