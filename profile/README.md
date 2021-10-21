@@ -7,11 +7,14 @@
 
 &nbsp;
 
+*EmortalMC is currently not released, but we are planning for a release date this December!*
+
 ###### 
 
 ## Gamemodes
 - [Lazer Tag](../../../../LazerTag)
 - [Wool Wars](../../../../WoolWars)
+- [Emortal Games](../../../../EmortalGames)
 - [Marathon](../../../../Marathon) (Endless parkour)
 
 ## Libraries from EmortalMC
