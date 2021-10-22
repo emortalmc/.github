@@ -12,11 +12,11 @@
 ###### 
 
 ## Gamemodes
-- [Lazer Tag](../../../../LazerTag)
-- [Wool Wars](../../../../WoolWars)
-- [Emortal Games](../../../../EmortalGames)
-- [Marathon](../../../../Marathon) (Endless parkour)
+- [Lazer Tag](https://github.com/EmortalMC/LazerTag)
+- [Wool Wars](https://github.com/EmortalMC/WoolWars)
+- [Emortal Games](https://github.com/EmortalMC/EmortalGames)
+- [Marathon](https://github.com/EmortalMC/Marathon) (Endless parkour)
 
 ## Libraries from EmortalMC
-- [Rayfast](../../../../Rayfast) (Fast raycasting)
-- [Immortal](../../../../Immortal) (Game manager)
+- [Rayfast](https://github.com/EmortalMC/Rayfast) (Fast raycasting)
+- [Immortal](https://github.com/EmortalMC/Immortal) (Game manager)
