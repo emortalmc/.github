@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/EmortalMC/.github/master/profile/emortalmclogo-450.png" width=450>
+<img src="https://raw.githubusercontent.com/EmortalMC/.github/master/profile/emortalmclogo-3d.png" width=600>
   
   <h3 align="center">A Minecraft network powered by Minestom</h3>
   <h6 align="center">+ help from Project Cepi 😎</h6>
