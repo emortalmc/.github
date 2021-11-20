@@ -9,7 +9,7 @@
 
 *EmortalMC is currently not released, but we are planning for a release date this December!*
 
-###### 
+![Discord](https://img.shields.io/discord/785283692054315010?color=ffc0c0&label=EmortalMC%20Discord&style=for-the-badge)
 
 ## Gamemodes
 - [Lazer Tag](https://github.com/EmortalMC/LazerTag)
