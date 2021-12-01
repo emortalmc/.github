@@ -7,15 +7,14 @@
 
 &nbsp;
 
-*EmortalMC is currently not released, but we are planning for a release date this December!*
+*EmortalMC is currently not released, it is mostly just a fun project and so has no real deadline. It's ready when it's ready (soon™)*
 
 ![Discord](https://img.shields.io/discord/785283692054315010?color=ffc0c0&label=EmortalMC%20Discord&style=for-the-badge)
 
 ## Gamemodes
-- [Lazer Tag](https://github.com/EmortalMC/LazerTag)
-- [Wool Wars](https://github.com/EmortalMC/WoolWars)
-- [Emortal Games](https://github.com/EmortalMC/EmortalGames)
-- [Marathon](https://github.com/EmortalMC/Marathon) (Endless parkour)
+- Lazer Tag
+- Parkour Tag
+- Marathon
 
 ## Libraries from EmortalMC
 - [Rayfast](https://github.com/EmortalMC/Rayfast) (Fast raycasting)
