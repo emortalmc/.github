@@ -12,6 +12,7 @@
 - Lazer Tag
 - Parkour Tag
 - Marathon
+- Block Sumo
 
 ### Libraries from EmortalMC
 - [Rayfast](https://github.com/EmortalMC/Rayfast) (Fast raycasting)
