@@ -8,6 +8,8 @@
 
 [![Discord](https://img.shields.io/discord/785283692054315010?color=ffc0c0&label=EmortalMC%20Discord&style=for-the-badge)](https://discord.gg/TZyuMSha96)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5CMXJZ)
+
 ### Gamemodes
 - Lazer Tag
 - Parkour Tag
