@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/EmortalMC/.github/master/profile/githubbanner2.png" width=1000>
+  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcnight.png#gh-dark-mode-only">
+  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcday.png#gh-light-mode-only">
   
   <h2 align="center">A Minecraft network powered by Minestom
 </p>
