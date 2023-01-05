@@ -15,6 +15,7 @@
 - Holey Moley
 - Lazer Tag
 - Marathon
+- Minesweeper
 - Parkour Tag
 
 ### Libraries from EmortalMC
