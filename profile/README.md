@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcnight.png#gh-dark-mode-only">
-  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcday.png#gh-light-mode-only">
+  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcnight.webp#gh-dark-mode-only">
+  <img width="1000" src="https://github.com/EmortalMC/.github/raw/master/profile/emortalmcday.webp#gh-light-mode-only">
   
   <h2 align="center">A Minecraft network ⚡ by Minestom
 </p>
