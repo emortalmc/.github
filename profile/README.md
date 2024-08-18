@@ -5,6 +5,8 @@
   <h2 align="center">A Minecraft network ⚡ by Minestom
 </p>
 
+`mc.emortal.dev`
+
 &nbsp;
 
 ### Gamemodes
