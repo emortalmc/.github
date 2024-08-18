@@ -8,12 +8,12 @@
 &nbsp;
 
 ### Gamemodes
-- Battle (like the Console Edition)
-- Block Sumo
-- Lazer Tag
-- Marathon
-- Minesweeper
-- Parkour Tag
+- [Battle](https://github.com/emortalmc/battle) (like the Console Edition)
+- [Block Sumo](https://github.com/emortalmc/blocksumo)
+- [LazerTag](https://github.com/emortalmc/lazertag)
+- [Marathon](https://github.com/emortalmc/marathon)
+- [Minesweeper](https://github.com/emortalmc/minesweeper)
+- [Parkour Tag](https://github.com/emortalmc/parkourtag)
 
 ### Libraries from EmortalMC
 - [Rayfast](https://github.com/EmortalMC/Rayfast) - Fast raycasting
